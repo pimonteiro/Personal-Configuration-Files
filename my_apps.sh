@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MY_APPS=(plank nmap sqlmap git terminator ghc apache2 wireshark psensor cabal-install)
+MY_APPS=(plank nmap sqlmap git terminator ghc apache2 wireshark psensor cabal-install vim)
 
 for i in "${MY_APPS[@]}"
 do
